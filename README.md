@@ -18,5 +18,8 @@ ZS Minimap es un script standalone que controla de forma inteligente la aparici√
 
 Creado por zs shop | ellocozanotti23
 Discords
+
 zs shop:https://discord.gg/zFdqrxxEKd
+
 zs leaks:https://discord.gg/XAAGrDN4jS
+
